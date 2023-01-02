@@ -1,0 +1,1 @@
+class Listanganwadiiconone1ItemModel {}
